@@ -1,0 +1,14 @@
+D:\csharpprojects\ClientApp1\ClientApp1\bin\Debug\net7.0\ClientApp1.exe
+D:\csharpprojects\ClientApp1\ClientApp1\bin\Debug\net7.0\ClientApp1.deps.json
+D:\csharpprojects\ClientApp1\ClientApp1\bin\Debug\net7.0\ClientApp1.runtimeconfig.json
+D:\csharpprojects\ClientApp1\ClientApp1\bin\Debug\net7.0\ClientApp1.dll
+D:\csharpprojects\ClientApp1\ClientApp1\bin\Debug\net7.0\ClientApp1.pdb
+D:\csharpprojects\ClientApp1\ClientApp1\obj\Debug\net7.0\ClientApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpprojects\ClientApp1\ClientApp1\obj\Debug\net7.0\ClientApp1.AssemblyInfoInputs.cache
+D:\csharpprojects\ClientApp1\ClientApp1\obj\Debug\net7.0\ClientApp1.AssemblyInfo.cs
+D:\csharpprojects\ClientApp1\ClientApp1\obj\Debug\net7.0\ClientApp1.csproj.CoreCompileInputs.cache
+D:\csharpprojects\ClientApp1\ClientApp1\obj\Debug\net7.0\ClientApp1.dll
+D:\csharpprojects\ClientApp1\ClientApp1\obj\Debug\net7.0\refint\ClientApp1.dll
+D:\csharpprojects\ClientApp1\ClientApp1\obj\Debug\net7.0\ClientApp1.pdb
+D:\csharpprojects\ClientApp1\ClientApp1\obj\Debug\net7.0\ClientApp1.genruntimeconfig.cache
+D:\csharpprojects\ClientApp1\ClientApp1\obj\Debug\net7.0\ref\ClientApp1.dll

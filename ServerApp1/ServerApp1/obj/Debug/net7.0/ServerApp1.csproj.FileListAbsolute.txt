@@ -1,0 +1,14 @@
+D:\csharpprojects\ServerApp1\ServerApp1\bin\Debug\net7.0\ServerApp1.exe
+D:\csharpprojects\ServerApp1\ServerApp1\bin\Debug\net7.0\ServerApp1.deps.json
+D:\csharpprojects\ServerApp1\ServerApp1\bin\Debug\net7.0\ServerApp1.runtimeconfig.json
+D:\csharpprojects\ServerApp1\ServerApp1\bin\Debug\net7.0\ServerApp1.dll
+D:\csharpprojects\ServerApp1\ServerApp1\bin\Debug\net7.0\ServerApp1.pdb
+D:\csharpprojects\ServerApp1\ServerApp1\obj\Debug\net7.0\ServerApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharpprojects\ServerApp1\ServerApp1\obj\Debug\net7.0\ServerApp1.AssemblyInfoInputs.cache
+D:\csharpprojects\ServerApp1\ServerApp1\obj\Debug\net7.0\ServerApp1.AssemblyInfo.cs
+D:\csharpprojects\ServerApp1\ServerApp1\obj\Debug\net7.0\ServerApp1.csproj.CoreCompileInputs.cache
+D:\csharpprojects\ServerApp1\ServerApp1\obj\Debug\net7.0\ServerApp1.dll
+D:\csharpprojects\ServerApp1\ServerApp1\obj\Debug\net7.0\refint\ServerApp1.dll
+D:\csharpprojects\ServerApp1\ServerApp1\obj\Debug\net7.0\ServerApp1.pdb
+D:\csharpprojects\ServerApp1\ServerApp1\obj\Debug\net7.0\ServerApp1.genruntimeconfig.cache
+D:\csharpprojects\ServerApp1\ServerApp1\obj\Debug\net7.0\ref\ServerApp1.dll
